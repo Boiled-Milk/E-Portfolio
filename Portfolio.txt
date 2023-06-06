@@ -1,0 +1,40 @@
+<html>
+	<head>
+	<title>Quillan's Portfolio</title> <style type="text/css">
+	body {
+	background-color: #d2b48c;
+	background-image: url(background.png); 
+	margin-left: 20%
+	margin-right: 20% 
+	border: 1px dotted gray
+	padding: 10px 10px 10px 10px; 
+	font-family: Georgia, serif; 
+	}
+	img {
+	padding:30px;
+	}
+	</style>
+	</head>
+	<body>
+	<center> 
+	<br>
+	<h1 style="color: #F4F1F1; ">Quillan's Portfolio</h1>
+	<br>
+	<h2 style="color: #F4F1F1;">Magazine Cover</h2>
+	<p style="color: #F4F1F1;">Created in Powerpoint</p>
+	<img src="magazinecover.png" width="500px">
+	<br>
+	<h2 style="color: #F4F1F1;">Rock Band Poster</h2>
+	<p style="color: #F4F1F1;">Created in Powerpoint</p>
+	<img src="RockPoster.png" width="500px">
+	<br>
+	<h2 style="color: #F4F1F1;">ILCA Boat 3d Model</h2>
+	<p style="color: #F4F1F1;">Created in Fusion 360</p>
+	<img src="ILCA.png" width="500px">
+	<br>
+	<h2 style="color: #F4F1F1;">Mocha Pod 3d Model</h2>
+	<p style="color: #F4F1F1;">Created in Fusion 360</p>
+	<img src="mochapod.png" width="500px">
+	</center> 
+	</body>
+	</html>
